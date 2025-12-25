@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/Rbr174/cbr-api.git
-cd currency_backend
+cd cbr-api
 ```
 
 2. Установите зависимости
